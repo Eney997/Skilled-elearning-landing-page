@@ -1,7 +1,4 @@
 @media (width > 768px ) {
-    body {
-        
-    }
     header{
        column-gap: 460px;
     }
@@ -189,7 +186,6 @@
         width: 1520px;
         height: 120px;
     }
-    
 }
 @media (width > 1900px ) {
     .box2 { 

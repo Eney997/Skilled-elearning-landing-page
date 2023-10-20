@@ -188,8 +188,13 @@
     
 }
 @media (width > 1900px ) {
+    .box2 { 
+        position: absolute;
+        margin-top: -1092px;
+        margin-left: 1150px;
+    }
     footer {
-        width: 1900px;
+        width: 1903px;
         height: 120px;
     }
 }

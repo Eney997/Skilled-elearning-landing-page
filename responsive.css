@@ -176,17 +176,16 @@
     }
 }
 @media (width > 1520px ) {
-    .bigressquear2 {
-        z-index: -1;
-        position: relative;
-        display: grid;
-        margin-top: -778px;
-        margin-left: 95.8px;
+    .box2 { 
+        position: absolute;
+        margin-top: -1092px;
+        margin-left: 768px;
     }
     footer {
         width: 1520px;
         height: 120px;
     }
+    
 }
 @media (width > 1900px ) {
     footer {

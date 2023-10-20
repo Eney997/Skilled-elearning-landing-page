@@ -176,6 +176,13 @@
     }
 }
 @media (width > 1520px ) {
+    .bigressquear2 {
+        z-index: -1;
+        position: relative;
+        display: grid;
+        margin-top: -778px;
+        margin-left: 95.8px;
+    }
     footer {
         width: 1520px;
         height: 120px;

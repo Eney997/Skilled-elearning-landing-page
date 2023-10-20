@@ -89,14 +89,15 @@
     }
     .girlback {
         width: 317px;
-        height: 560px;
-        border-radius: 158px;
+        height: 548px;
+        border-radius: 158.5px;
     }
     .girlimg75 {
         width: 349.474px;
-        height: 522px;
-        margin-top: 40px;
-        margin-left: -35px;
+        height: 507px;
+        margin-top: 41px;
+        margin-left: -19px;
+        border-radius: 158.5;
     }
     .white1 {
         margin-top: 20px;
@@ -138,5 +139,17 @@
     .footer2but {
         margin-top: 32px;
         margin-left: 1108px;
+    }
+}
+@media (width > 1520px ) {
+    footer {
+        width: 1520px;
+        height: 120px;
+    }
+}
+@media (width > 1900px ) {
+    footer {
+        width: 1900px;
+        height: 120px;
     }
 }

@@ -24,7 +24,7 @@
     }
     .girlback {
         z-index: 2; 
-        width: 216.54px;
+        width: 234px;
         height: 382.531px;
         border-radius: 158.5px;
     }
@@ -38,7 +38,7 @@
     .girlimg75 {
         z-index: 3;
         position: relative;
-        width: 216.54px;
+        width: 235px;
         height: 382.531px;
         border-radius: 150px;
         margin-top: 0px;
@@ -112,19 +112,19 @@
         z-index: -1;
         position: relative;
         display: grid;
-        margin-top: -778px;
+        margin-top: -775px;
         margin-left: 56px;
     }
     .girlback {
         z-index: 2; 
-        width: 317px;
+        width: 336px;
         height: 548px;
         border-radius: 158.5px;
     }
     .girlimg75 {
         z-index: 3;
         position: relative;
-        width: 349.474px;
+        width: 353px;
         height: 507px;
         margin-top: 41px;
         margin-left: -19px;

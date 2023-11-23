@@ -37,8 +37,6 @@ header {
     background: var(--13183F, #13183F);
 }
 .header2but:hover {
-    width: 167px;
-    height: 56px;
     border-radius: 28px;
     background: var(--666CA3, #666CA3);
 }
@@ -87,8 +85,6 @@ header {
     background: var(--Gradient-1, linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%));
 }
 .box1-3but:hover {
-    width: 167px;
-    height: 63px;
     border-radius: 31.5px;
     background: var(--Gradient-1-Hover, linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%));
 }
@@ -299,8 +295,6 @@ footer {
     background: var(--Gradient-2, linear-gradient(180deg, #4851FF 0%, #F02AA6 100%));
 }
 .footer2but:hover {
-    width: 167px;
-    height: 56px;
     border-radius: 28px;
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%), linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
 }

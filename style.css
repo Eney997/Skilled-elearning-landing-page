@@ -271,7 +271,7 @@ header {
 }
 footer {
     margin-top: 80px;
-    width: 375px;
+    width: 100%;
     height: 120px;
     background: var(--13183F, #13183F);
 }
